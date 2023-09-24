@@ -1,5 +1,3 @@
-# sib-golang-assigment-2
-
 # Result
 
 ## Create Order
